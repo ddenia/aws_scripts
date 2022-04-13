@@ -1,0 +1,9 @@
+# configure new aws profile
+aws configure --profile profile1
+
+AWS Access Key ID [None]:
+AWS Secret Access Key [None]:
+Default region name [None]:
+Default output format [None]:
+
+export AWS_DEFAULT_PROFILE=profile1
